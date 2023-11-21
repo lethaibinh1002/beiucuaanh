@@ -1,7 +1,7 @@
 
     const contentLetterSrart_actived = "22/11 , Chào em nhé, cô gái tháng 11 của anh";
     const mainContentLetter =
-      "Một chút dễ thương dành tặng cho bé yêu của anh,chúc bé có một ngày sinh nhật thật vui vẻ,hạnh phúc và luôn luôn nở nụ cười. Anh biết em hay suy nghĩ lung tung với lại tiêu cực nhìu nên mong saoo em có thể thay đổi,tuổi mới hạn chế tiêu cực lại, luôn nghĩ tới những điều tốt đẹp nhất, anh luôn ở bên em và sẽ cùng em chia sẻ mọi thứ. Anh iu emmm ❤️";
+      "Một chút dễ thương dành tặng cho bé yêu của anh,chúc bé có một ngày sinh nhật thật vui vẻ,hạnh phúc và luôn luôn nở nụ cười. Anh biết em hay suy nghĩ lung tung với lại tiêu cực nhìu nên mong saoo em có thể thay đổi,tuổi mới hạn chế tiêu cực lại, luôn nghĩ tới những điều tốt đẹp nhất, anh luôn ở bên em và sẽ cùng em chia sẻ mọi thứ. Chúc em bé của anh thêm tuổi mới càng xinh hơn, luôn luôn nở nụ cười trên môi. Anh iu emmm ❤️";
   
     let imgStart = document.querySelector(".myAI");
     imgStart.src = "./img/cute-young-boy-kid-wearing-vest-and-hat-free-png.jpg";
